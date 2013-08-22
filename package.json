@@ -1,0 +1,20 @@
+{
+	"name": "chiiv",
+	"description": "A node module to perform api requests to chiiv",
+	"version": "0.0.0",
+	"author": "kdi",
+	"contributors": [
+		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
+	],
+	"homepage": "http://chiiv.com", 
+	"keywords": ["chiiv", "achieve", "achievement", "management", "aggregate", "api", "json"],
+	"repository": {
+	"type": "git",
+		"url": "git://github.com/chiiv/node.git"
+	},
+	"engines": { "node": "0.8.x" }, 
+	"main": "index",
+	"bin": { },
+	"dependencies": {
+	}
+}
