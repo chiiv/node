@@ -1,7 +1,7 @@
 {
 	"name": "chiiv",
 	"description": "A node module to perform api requests to chiiv",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
